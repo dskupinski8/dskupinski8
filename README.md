@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dskupinski8
 - 👀 I’m interested in CyberSec, Python programing, Multimedia ...
 - 🌱 I’m currently learning for OSCP cert.
-- 💞️ I’m looking to collaborate on Seciurity and multimedia projects
+- 💞️ I’m looking to collaborate on Security and multimedia projects
 - 📫 How to reach me - if you need to youl find a way ;)
 
 <!---
